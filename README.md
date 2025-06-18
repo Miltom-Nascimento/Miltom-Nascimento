@@ -59,20 +59,6 @@ Busco oportunidades para aplicar e expandir meus conhecimentos em projetos desaf
 
 ## 📊 Estatísticas GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Miltom-Nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miltom-Nascimento&show_icons=true&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miltom-Nascimento&layout=compact&theme=dark&hide=CSS&langs_count=6)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miltom-Nascimento&theme=tokyonight&layout=compact&custom_title=Linguagens mais usadas&langs_count=9" 
-  />
-
-</p>
